@@ -9,12 +9,12 @@ def breakfast(bfast="frosted flakes")
   "Morning is the right time for #{bfast}!"
 end
 
-def lunch=("grilled cheese")
-  "Noon is the right time for #{lunch}!"
+def lunch(lnch="grilled cheese")
+  "Noon is the right time for #{lnch}!"
 end
 
-def dinner=("salmon")
-  "Night is the right time for #{dinner}!"
+def dinner(dnr="salmon")
+  "Night is the right time for #{dnr}!"
 end
 
 # Call the methods th puts and your own arguments here. Like this:
